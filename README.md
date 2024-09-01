@@ -1,7 +1,9 @@
 # 데이크루 4기
 ---
 - 수료증
-  
+![image](https://github.com/user-attachments/assets/d5cc5504-c455-4f2d-a238-85d368bcd0ac)
+
+
 - 활동내용 : https://www.dacon.io/competitions/official/236047/overview/description
   
 ![image](https://github.com/user-attachments/assets/fa797222-0ef2-4187-b505-28e1029ce0f7)
