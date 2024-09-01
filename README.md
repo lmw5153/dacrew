@@ -1,14 +1,13 @@
-# 데이크루 4기
+# 데이크루 4기 수료
 ---
-- 수료증
+### 수료증
 ![image](https://github.com/user-attachments/assets/d5cc5504-c455-4f2d-a238-85d368bcd0ac)
 
-
-- 활동내용 : https://www.dacon.io/competitions/official/236047/overview/description
+### 활동내용 : https://www.dacon.io/competitions/official/236047/overview/description
   
 ![image](https://github.com/user-attachments/assets/fa797222-0ef2-4187-b505-28e1029ce0f7)
 
-
+### 활동내용정리
 - stage 1 : 데이터 불러오기 https://www.dacon.io/competitions/official/236047/codeshare/7447
 - stage 2 : 데이터 시각화 https://www.dacon.io/competitions/official/236047/codeshare/7661
 - stage 3 : 데이터 전처리 https://www.dacon.io/competitions/official/236047/codeshare/7664
